@@ -1,0 +1,3 @@
+Enable extension php by removing the ";" in front of ";extension=php_sqlite3.dll" in php.ini.
+
+`extension=php_pdo_sqlite.dll` AND `extension=php_sqlite3.dll`. 
